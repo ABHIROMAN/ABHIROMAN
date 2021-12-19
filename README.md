@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying  **Btech CSE with specialization in AI/ML.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms and JAVA.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
