@@ -68,3 +68,5 @@
     <img src="https://komarev.com/ghpvc/?username=ABHIROMAN">
 </a>
 <a href="https://github.com/ABHIROMAN?tab=followers"><img src="https://img.shields.io/github/followers/ABHIROMAN?label=Followers&style=social" alt="GitHub Badge"></a>
+
+[![@abhiroman's Holopin board](https://holopin.me/abhiroman)](https://holopin.io/@abhiroman)
